@@ -14,9 +14,3 @@ Links to repositories:
 
 [Recipe sharing site](https://github.com/thedross/foodgram-project-react)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedross)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thedross&show_icons=true&count_private=true)  
-
